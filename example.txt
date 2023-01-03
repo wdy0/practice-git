@@ -7,3 +7,4 @@ commit A/4
 commit A/5
 commit A/6
 commit B/1
+commit B/2
